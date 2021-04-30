@@ -1,4 +1,4 @@
-on: push
+on: pus
 name: deploy
 jobs: 
   deploy:
